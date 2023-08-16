@@ -5,7 +5,6 @@ An application to assist immigration attorneys and refugee representatives in ad
 [Human Rights First (HRF)](https://www.humanrightsfirst.org/about) is a non-profit, nonpartisan, 501(c)(3), international human rights organization based in New York, Washington D.C., Houston, and Los Angeles. [HRF](https://www.humanrightsfirst.org/asylum) works to link immigration attorneys and advocates with asylum seekers and provide those attorneys with resources to represent their clients. Our application leverages historical data to inform advocates better of a judge's past decisions. The hope is that advocates for asylum seekers can use our tools to tailor their arguments before a particular judge and maximize their client's chances of receiving asylum.
 
 
-
 ## Architecture
 ![image](https://github.com/BloomTech-Labs/human-rights-first-asylum-be-a/blob/main/reference/architecture.png?raw=true)  
 This diagram shows the current state of the architecture.
